@@ -20,6 +20,7 @@ Learning by doing. Every project is an opportunity to level up.
 - AI as a powerful tool (not a replacement for craft and understanding)
 - Engineering cultures that prioritize excellence: Netflix's engineering practices, Oxide Computer's systems thinking
 - Building systems that improve government services and public infrastructure
+- Engineers who master their craft through deep understanding and hands-on work (shoutout to ThePrimeagen)
 
 ## What Drives Me 💡
 - Real-world impact over resume padding

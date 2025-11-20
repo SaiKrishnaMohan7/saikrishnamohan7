@@ -5,13 +5,27 @@ Senior Software Engineer 💪 | Lifelong Learner 📚 | On a mission to be the b
 Individual contributor focused on mastering software engineering through hands-on experience and continuous learning.
 
 ## Current Focus 🎯
-- Building robust, scalable systems
-- Deepening technical expertise through practical application
-- Contributing to complex problem-solving in production environments
-- Pushing myself to become the best software engineer I can be
+- 🗄️ Building a distributed cache system
+- 🔨 Working on an interpreter project
+- 🌐 Exploring distributed systems and the infrastructure that powers the internet
+- 📈 Pushing myself to become the best software engineer I can be
 
 ## Philosophy 🧠
 Learning by doing. Every project is an opportunity to level up.
+
+## What Fascinates Me 🚀
+- Distributed systems and how they scale
+- Algorithms and data structures that make a real difference in the world
+- Projects like Signal (privacy) and what3words (accessibility) - tech that adds genuine value
+- AI as a powerful tool (not a replacement for craft and understanding)
+- Engineering cultures that prioritize excellence: Netflix's engineering practices, Oxide Computer's systems thinking
+- Building systems that improve government services and public infrastructure
+
+## What Drives Me 💡
+- Real-world impact over resume padding
+- Technical excellence in service of meaningful problems
+- Open source contributions that move the industry forward (even when I'm not a fan of the company)
+- Adapting and learning - life's complicated, staying rigid isn't the answer
 
 ## Approach 🛠️
 - Write code that works, then make it better
